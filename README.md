@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm amieow</h1>
-<h3 align="center">I am skilled and experienced a year on front-end web developer related ,with a passion for creating visually appealing and user-friendly websites. My proficiency extends to developing Single Page Applications using the React framework coupled with Next.js. </h3>
-
+> life is not like biner, sometime good, sometime bad. 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amieow&label=Profile%20views&color=0e75b6&style=flat" alt="amieow" /> </p>
 
 <h2 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/amieow.env" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amieow.env" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/amieow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amieow" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/amieow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="amieow" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/amieow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amieow" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h3>
