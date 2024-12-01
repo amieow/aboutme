@@ -1,4 +1,4 @@
-> life is not like biner, sometime good, sometime bad. 
+> life is not like biner , 000011 000010 000001 000000
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amieow&label=Profile%20views&color=0e75b6&style=flat" alt="amieow" /> </p>
 
 <h2 align="left">Connect with me:</h3>
